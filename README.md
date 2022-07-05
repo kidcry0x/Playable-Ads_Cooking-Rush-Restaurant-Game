@@ -8,17 +8,11 @@
 
 ## Demo Playable Ads
 
-- [**Demo Playable Ads - IEC version 1**](https://kidcry0x.github.io/Playable-Ads_DOP-Story-Displace-It/DOP_Story_IECv1_Minh_17062022/)
-- [**Demo Playable Ads - IEC version 2**](https://kidcry0x.github.io/Playable-Ads_DOP-Story-Displace-It/DOP_Story_IECv2_Minh_20062022/)
-
-- [**Demo Playable Ads version 1**](https://kidcry0x.github.io/Playable-Ads_DOP-Story-Displace-It/DOP_Story_V1_Minh_03062022/)
-- [**Demo Playable Ads version 2**](https://kidcry0x.github.io/Playable-Ads_DOP-Story-Displace-It/DOP_Story_V2_Minh_08062022/)
-- [**Demo Playable Ads version 3**](https://kidcry0x.github.io/Playable-Ads_DOP-Story-Displace-It/DOP_Story_V3_Minh_09062022/)
-- [**Demo Playable Ads version 4**](https://kidcry0x.github.io/Playable-Ads_DOP-Story-Displace-It/DOP_Story_V4_Minh_15062022/)
-- [**Demo Playable Ads version 5**](https://kidcry0x.github.io/Playable-Ads_DOP-Story-Displace-It/DOP_Story_V5_Minh_17062022/)
-- [**Demo Playable Ads version 6**](https://kidcry0x.github.io/Playable-Ads_DOP-Story-Displace-It/DOP_Story_V6_Minh_20062022/)
+- [**Demo Playable Ads version 1**](https://kidcry0x.github.io/Playable-Ads_Cooking-Rush-Restaurant-Game/Cooking_Speedy_V1-fixStore_Minh_19042022/)
+- [**Demo Playable Ads version 2**](https://kidcry0x.github.io/Playable-Ads_Cooking-Rush-Restaurant-Game/Cooking_Speedy_V2_responsive-fixStore_Minh_27042022/)
+- [**Demo Playable Ads version 3**](https://kidcry0x.github.io/Playable-Ads_Cooking-Rush-Restaurant-Game/Cooking_Speedy_V3-Responsive-fixStore_Minh_08052022/)
 
 ## Link Game
 
-- [**Link: Google Play**](https://play.google.com/store/apps/details?id=com.dop.brain.displacestory)
-<!-- - [**Link: App Store**]() -->
+- [**Link: Google Play**](https://play.google.com/store/apps/details?id=com.cookingrush.fever.madnessrestaurant)
+- [**Link: App Store**](https://apps.apple.com/us/app/cooking-rush-restaurant-game/id1623992858)
